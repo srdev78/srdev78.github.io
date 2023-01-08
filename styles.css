@@ -1,16 +1,20 @@
+html body {
+  background-color: black;
+  padding: 10px;
+}
+
 .head-style {
   text-align: center;
   color: blue;
   padding: 10pt;
 }
 
-
 p {
   text-align: center;
   color: red;
 }
 
-.button-section{
+.button-start-section{
   text-align: center;
   padding: 1pc;
   color: sandybrown;
@@ -20,15 +24,13 @@ p {
   text-align: center;
 }
 
-
-
-#initialGreetingSection {
+#initialSection {
   color: lightgreen;
   padding: 10px 0;
   text-align: center;
 }
 
-#helloWorldSection {
+#resultsSection {
   color: darkorange;
   padding: 40px 0;
   text-align: center;
@@ -36,8 +38,3 @@ p {
   font-style:italic;
 }
 
-
-html body {
-  background-color: black;
-  padding: 10px;
-}
