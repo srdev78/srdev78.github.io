@@ -17,6 +17,7 @@ $(function () {
  */
 function startBtnClick() {
 
+    //test comment
     showInitialSection();
     clearTextBox();
     hideResults();
